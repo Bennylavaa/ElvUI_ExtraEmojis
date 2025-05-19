@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Author: Bennylavaa
+## Author: Bennylavaa (Credit to skeggzy)
 ## Version: 1.0.0
 ## Title: |cff1784d1E|r|cffe5e3e3lvUI|r |cff1784d1E|r|cffe5e3e3xtra|r |cff1784d1E|r|cffe5e3e3mojis|r
 ## Notes: Adds additional emojis to ElvUI chat
