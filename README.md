@@ -1,3 +1,5 @@
+**NOTE: THIS HAS BEEN RETIRED USE THE STANDALONE INSTEAD [ChatEmojis](https://github.com/Bennylavaa/ChatEmojis)**
+
 # ElvUI_ExtraEmojis
 Adds additional emojis to ElvUI chat
 Requires Elvui
