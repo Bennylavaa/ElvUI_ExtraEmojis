@@ -1,7 +1,9 @@
 # ElvUI_ExtraEmojis
 Adds additional emojis to ElvUI chat
-
 Requires Elvui
+
+![image](https://github.com/user-attachments/assets/6b5c3d28-5851-4c8b-a785-ddaaf578dfc1)
+
 
 ### Installation
 1. Download **[Latest Version](https://github.com/Bennylavaa/ElvUI_ExtraEmojis/archive/master.zip)**
