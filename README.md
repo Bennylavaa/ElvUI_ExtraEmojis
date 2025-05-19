@@ -14,7 +14,7 @@ Requires Elvui
 
 ## Contribute
 
-If you wish to add more emojis, feel free to contribute and send [Pull Requests](https://github.com/Bennylavaa/pfQuest-epoch/pulls).
+If you wish to add more emojis, feel free to contribute and send [Pull Requests](https://github.com/Bennylavaa/ElvUI_ExtraEmojis/pulls).
 
 ## Standalone Version
 
